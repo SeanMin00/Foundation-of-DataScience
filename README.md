@@ -1,5 +1,4 @@
-# Foundation-of-DataScience
-# Bayesian Data Analysis (Spring 2026) - Notes & Code
+# Foundation-of-DataScience (Spring 2026) - Notes & Code
 
 ## Purpose
 Keep clean, reproducible notes, labs, and assignments from the course in one place.
